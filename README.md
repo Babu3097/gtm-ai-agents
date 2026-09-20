@@ -7,6 +7,8 @@
 Each agent is a Claude Code skill I select for the task at hand — ad creative, SEO, pricing, customer research. None of them know anything about the brand on their own; the judgement is mine, encoded in a business-context file, and every output is reviewed before it ships as a real ad or page.
 
 > **Note:** the company name and live figures (pricing, discount codes) are withheld from this public repo. The methodology below is real; the business specifics are not.
+>
+> See it in practice: [`business-context.example.md`](./business-context.example.md) is the actual template shape, and [`campaigns/example-task.md`](./campaigns/example-task.md) walks through one task end-to-end.
 
 ## Skills demonstrated
 
